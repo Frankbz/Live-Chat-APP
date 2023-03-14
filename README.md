@@ -9,6 +9,12 @@ Login
 Sign up
 ![image](https://user-images.githubusercontent.com/98783358/225052006-58f2832a-7aae-40fc-96e8-b415226a9167.png)
 
+Home page
+![image](https://user-images.githubusercontent.com/98783358/225056855-ba477b01-ff05-4c93-9cd7-32fb08e420df.png)
+The green dot indicates that user is online and the gray dot indicates the user is offline.
+The message under each user's is the lastest message between two users.
 
-![image](https://user-images.githubusercontent.com/98783358/225054170-93d8aa99-6986-4d4c-be20-8eadc9f1b423.png)
+Chat Box
+![image](https://user-images.githubusercontent.com/98783358/225057504-e59097a7-76fc-4e47-8544-e5bfc710ed56.png)
+
 
