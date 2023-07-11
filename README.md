@@ -1,6 +1,9 @@
 # Live-Chat-APP
 An web APP that allow users to chat in live time.
-
+- Implemented sign up & log in system using PHP, JavaScript and MySQL
+- Used OAuth 2.0 that enables users to login with Google account
+- Developed chat API using Ajax, allowing real-time messages delivery and checking friends’ online
+status without reloading the page
 
 # Description
 Login 
