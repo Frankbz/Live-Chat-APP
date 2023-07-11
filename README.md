@@ -11,8 +11,6 @@ Sign up
 
 Home page
 ![image](https://user-images.githubusercontent.com/98783358/225056855-ba477b01-ff05-4c93-9cd7-32fb08e420df.png)
-The green dot indicates that user is online and the gray dot indicates the user is offline.
-The message under each user's is the lastest message between two users.
 
 Chat Box
 ![image](https://user-images.githubusercontent.com/98783358/225057504-e59097a7-76fc-4e47-8544-e5bfc710ed56.png)
